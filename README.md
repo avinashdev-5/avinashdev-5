@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avinashdev-5
+- 👋 Hi, I’m Avinash @aviz.arts
 - 👀 I’m Unreal enthusiast | Lighting artist | Level design ...
 - 🌱 I’m currently learning in Unreal Engine ...
 - 💞️ I’m looking to collaborate on  ...
@@ -6,6 +6,6 @@
 - 😄 Pronouns: He/Him ...
 
 <!---
-avinashdev-5/avinashdev-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aviz.arts/aviz.arts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
